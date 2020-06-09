@@ -1,5 +1,5 @@
 # oomox-icons-griggorii-gnome-shell_3.36.2
-Linux , Ubuntu 20.04 , gnome-shell , dconf , unity , cinnamon , gnome , budgie setting de
+Linux , Ubuntu 20.04 , gnome-shell , dconf , unity , cinnamon , gnome , budgie setting de , theme №10 elementary support
 
 Download zip : https://yadi.sk/d/hoYROq5fw1TOCg
 
