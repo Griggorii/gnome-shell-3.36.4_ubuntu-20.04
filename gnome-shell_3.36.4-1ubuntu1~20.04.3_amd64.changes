@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Fri, 22 Oct 2021 16:40:58 +0800
+Source: gnome-shell
+Binary: gnome-shell gnome-shell-common gnome-shell-extension-prefs
+Architecture: all amd64
+Version: 3.36.4-1ubuntu1~20.04.3
+Distribution: focal-security
+Urgency: medium
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: Griggorii <griggorii@gmail.com>
+Description:
+ gnome-shell - graphical shell for the GNOME desktop
+ gnome-shell-common - common files for the GNOME graphical shell
+ gnome-shell-extension-prefs - tool to enable / disable GNOME Shell extensions
+Changes:
+ gnome-shell (3.36.4-1ubuntu1~20.04.3) focal-security; urgency=medium
+ .
+   * New upstream rebuild
+Checksums-Sha1:
+ f7625ed76e37c61661d17d4e5f92107c90206d5e 725948 gnome-shell-common_3.36.4-1ubuntu1~20.04.3_all.deb
+ 4e27880ac0b0e03e3bc215f799233ffddfcd1570 1225532 gnome-shell-dbgsym_3.36.4-1ubuntu1~20.04.3_amd64.ddeb
+ 66568aa1430ed974c085d1c01bc0acf7fa8a1b17 51888 gnome-shell-extension-prefs_3.36.4-1ubuntu1~20.04.3_amd64.deb
+ 2391ee159c3497addc5fae26d3823326dbb68f4a 24623 gnome-shell_3.36.4-1ubuntu1~20.04.3_amd64.buildinfo
+ fe3ba58dea53f05fe97dc0ccfbef077cbf8480dd 822788 gnome-shell_3.36.4-1ubuntu1~20.04.3_amd64.deb
+Checksums-Sha256:
+ 7ae528cc13e6c095b11967983474c8c4dacb77cecb3a97d1c2894123353c0512 725948 gnome-shell-common_3.36.4-1ubuntu1~20.04.3_all.deb
+ 176400fd24c526d6c73ff515ff84b89ed12cd168b3d466e86741904caf2b6472 1225532 gnome-shell-dbgsym_3.36.4-1ubuntu1~20.04.3_amd64.ddeb
+ ca7937a9ac99ea7ab7c386ec075e9ae45496a60f77402d13a8021aa6d6a27b65 51888 gnome-shell-extension-prefs_3.36.4-1ubuntu1~20.04.3_amd64.deb
+ 2597d7f1033846dd044c0b7472bed75e12078ff97ff4bae26da54eb640f0275e 24623 gnome-shell_3.36.4-1ubuntu1~20.04.3_amd64.buildinfo
+ 514dc71510c41d6e27b91646ad4fcb16aba8da5fcb19bdcfa996b5d39db86ad4 822788 gnome-shell_3.36.4-1ubuntu1~20.04.3_amd64.deb
+Files:
+ 26879c8064f6efade259ac2cea481966 725948 gnome optional gnome-shell-common_3.36.4-1ubuntu1~20.04.3_all.deb
+ 2bbb8d185cf5f448376d042b25c73fec 1225532 debug optional gnome-shell-dbgsym_3.36.4-1ubuntu1~20.04.3_amd64.ddeb
+ cedbdcef671f16f7241030f452f50ab4 51888 gnome optional gnome-shell-extension-prefs_3.36.4-1ubuntu1~20.04.3_amd64.deb
+ 3a1d0d7466c1abebbb5e6fb6f364b8a0 24623 gnome optional gnome-shell_3.36.4-1ubuntu1~20.04.3_amd64.buildinfo
+ 181a5fb81867899f8d3de456e4f5796a 822788 gnome optional gnome-shell_3.36.4-1ubuntu1~20.04.3_amd64.deb
+Original-Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
