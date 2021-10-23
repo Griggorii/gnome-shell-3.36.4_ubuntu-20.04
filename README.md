@@ -1,5 +1,5 @@
 # gnome-shell-3.36.4
-Linux , Ubuntu 20.04 , gnome-shell-3.36.4 , dconf , video recorder
+Linux , Ubuntu 20.04 , gnome-shell-3.36.4 , dconf , video screen recorder
 
 Deb package install:
 
